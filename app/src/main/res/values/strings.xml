@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgeCalc</string>
+    <string name="action_settings">Settings</string>
+    <string name="your_age_appears_here">YOUR AGE APPEARS HERE</string>
+    <string name="get_age">GET AGE</string>
+    <string name="enter_the_year_of_birth">ENTER THE YEAR OF BIRTH</string>
+</resources>
